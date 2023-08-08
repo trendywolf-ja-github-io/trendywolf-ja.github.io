@@ -5,9 +5,40 @@
     <description>这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员</description>
     <link>https://huangxuan.me/</link>
     <atom:link href="https://huangxuan.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Aug 2023 11:03:55 -0500</pubDate>
-    <lastBuildDate>Tue, 08 Aug 2023 11:03:55 -0500</lastBuildDate>
+    <pubDate>Tue, 08 Aug 2023 11:20:47 -0500</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2023 11:20:47 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>FRBの決定, 労働市場, インフレ, 株式市場 </title>
+        <description>&lt;p&gt;FRBは、労働市場やインフレに関する現在のデータがFRB の目標に合致していることから、一時停止を選択する可能性がある。さらに、株式市場に対する楽観的な見方は、予想される経済成長と金融株に対するプラス要因に牽引され、拡大する上昇の継続を示唆している。市場の動向については、データとFRBの行動を注視すること。&lt;/p&gt;
+
+&lt;h2 id=&quot;連邦準備制度理事会frbの一時停止の可能性&quot;&gt;連邦準備制度理事会（FRB）の一時停止の可能性&lt;/h2&gt;
+
+&lt;p&gt;ある専門家によると、現在のデータはFRB（連邦準備制度理事会）が一時停止、もしくは計画を保留する可能性を示唆しているという。この専門家は、特に労働市場の状況を考慮すると、データはFRBの希望に沿ったものだと考えている。雇用創出は減少しているが、失業率は3.5％前後で安定している。さらに、求人倍率は低下し、労働参加率は上昇し、賃金上昇率は4.4％で、これは望ましい範囲に十分近い。これらすべての要因を考慮し、インフレ傾向を示すインフレデータも加味すると、FRBは一時停止を決定するだろうと専門家は予測している。&lt;/p&gt;
+
+&lt;h2 id=&quot;株式市場の楽観&quot;&gt;株式市場の楽観&lt;/h2&gt;
+
+&lt;p&gt;専門家はまた、株式市場に関しても前向きな見方を示し、拡大するラリーの継続を予想している。この楽観的な見方の主な理由のひとつは、期待される経済成長である。アトランタ連銀が発表した第3四半期のGDP予測は現在3.9％で、コンセンサス予想の減速に比べて加速している。この経済成長は企業にとって有益であり、業績のアップグレードにつながり、最終的には株価を押し上げると見られている。同専門家はまた、金融株は最近テクノロジーや他のセクターをアウトパフォームしているが、その一因は金融に有利なイールドカーブのスティープ化にあると指摘する。同専門家は、ソフトランディング、大規模なデフォルトの発生がないこと、利回りがさらに低下する可能性があることが、拡大するラリーの継続に寄与すると考えている。&lt;/p&gt;
+
+&lt;p&gt;##サマリーとクロージング・ステートメント&lt;/p&gt;
+
+&lt;p&gt;要約すると、現在のデータはFRBが一時停止を決定する可能性を裏付けている。労働市場の指標は、インフレデータと相まって、FRBの目標に沿っている。さらに、専門家は株式市場について楽観的な見方をしており、拡大する上昇が持続すると予想している。この楽観的な見方は、予想される経済成長と金融株のプラス要因による。いつものように、市場の軌道をよりよく理解するためには、データとFRBの行動を注意深く監視することが重要である。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Aug 2023 00:00:00 -0500</pubDate>
+        <link>https://huangxuan.me/2023/08/08/6288-ja/</link>
+        <guid isPermaLink="true">https://huangxuan.me/2023/08/08/6288-ja/</guid>
+        
+        <category>FRBの決定</category>
+        
+        <category>労働市場</category>
+        
+        <category>インフレ</category>
+        
+        <category>株式市場</category>
+        
+        
+      </item>
     
       <item>
         <title>FRB利上げ、労働市場、株式市場、金融 </title>
@@ -255,54 +286,6 @@
         <category>笔记</category>
         
         <category>En</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>JavaScript 模块化七日谈</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;下滑这里查看更多内容&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;7月9日，我在公司内部进行了名为「JavaScript 模块化七日谈」分享，并将该 Slides 分享到了微博上。出乎意料地，这篇微博先后被 @JS小组 @尤小右 @寸志 等近 200 人转发，阅读达到 10w，获得了还不错的评价。&lt;/p&gt;
-
-&lt;p&gt;于是，我决定将它重新发到我的博客上，并为它专门制作了适用于 Keynote 展示文稿的新布局。它能自动根据屏幕大小/旋转以一定比例填充屏幕，你也可以直接点击下方链接在新页面打开，来获得更好的、沉浸式的全屏体验&lt;/p&gt;
-
-&lt;h3 id=&quot;watch-fullscreen-&quot;&gt;&lt;a href=&quot;https://huangxuan.me/js-module-7day/&quot;&gt;Watch Fullscreen →&lt;/a&gt;&lt;/h3&gt;
-
-&lt;div class=&quot;visible-md visible-lg&quot;&gt;
-&lt;img src=&quot;//huangxuan.me/js-module-7day/attach/qrcode.png&quot; width=&quot;350&quot; /&gt;
-&lt;small class=&quot;img-hint&quot;&gt;你也可以通过扫描二维码在手机上观看&lt;/small&gt;
-&lt;/div&gt;
-
-&lt;p&gt;这个 Web Slides 开源在&lt;a href=&quot;https://github.com/Huxpro/js-module-7day&quot;&gt;我的 Github 上&lt;/a&gt;，欢迎你帮助我完善这个展示文稿，你可以给我提 issue，可以 fork &amp;amp; pull request。如果它能帮助到你了，希望你还能不吝啬 star 一下这个项目&lt;/p&gt;
-
-&lt;h3 id=&quot;catalog&quot;&gt;Catalog&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;第一日 上古时期 &lt;strong&gt;&lt;em&gt;Module?&lt;/em&gt;&lt;/strong&gt; 从设计模式说起&lt;/li&gt;
-  &lt;li&gt;第二日 石器时代 &lt;strong&gt;&lt;em&gt;Script Loader&lt;/em&gt;&lt;/strong&gt; 只有封装性可不够，我们还需要加载&lt;/li&gt;
-  &lt;li&gt;第三日 蒸汽朋克 &lt;strong&gt;&lt;em&gt;Module Loader&lt;/em&gt;&lt;/strong&gt; 模块化架构的工业革命&lt;/li&gt;
-  &lt;li&gt;第四日 号角吹响 &lt;strong&gt;&lt;em&gt;CommonJS&lt;/em&gt;&lt;/strong&gt; 征服世界的第一步是跳出浏览器&lt;/li&gt;
-  &lt;li&gt;第五日 双塔奇兵 &lt;strong&gt;&lt;em&gt;AMD/CMD&lt;/em&gt;&lt;/strong&gt; 浏览器环境模块化方案&lt;/li&gt;
-  &lt;li&gt;第六日 精灵宝钻 &lt;strong&gt;&lt;em&gt;Browserify/Webpack&lt;/em&gt;&lt;/strong&gt; 大势所趋，去掉这层包裹！&lt;/li&gt;
-  &lt;li&gt;第七日 王者归来 &lt;strong&gt;&lt;em&gt;ES6 Module&lt;/em&gt;&lt;/strong&gt; 最后的战役&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;thanks&quot;&gt;Thanks&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Jul 2015 00:00:00 -0500</pubDate>
-        <link>https://huangxuan.me/2015/07/09/js-module-7day/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2015/07/09/js-module-7day/</guid>
-        
-        <category>Slides</category>
-        
-        <category>Web</category>
-        
-        <category>JavaScript</category>
         
         
       </item>
