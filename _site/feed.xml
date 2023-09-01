@@ -5,8 +5,8 @@
     <description>Committed to delivering economy news</description>
     <link>https://trendywolf-ko.github.io//</link>
     <atom:link href="https://trendywolf-ko.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 Sep 2023 06:05:39 -0500</pubDate>
-    <lastBuildDate>Fri, 01 Sep 2023 06:05:39 -0500</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2023 17:05:30 -0500</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2023 17:05:30 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -128,6 +128,47 @@
         <category>供給サイド</category>
         
         <category>物価安定</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>レイバーデー・ウィークエンドの旅行予想、ガソリン価格、ハリケーンに対する脆弱性。</title>
+        <description>&lt;p&gt;こんにちは。TrendyWolfです。今回は、来るレイバーデー（労働者の日）の週末、ガソリン価格の高騰が懸念されるものの、旅行の増加が予想されることについて解説します。また、インフレが家計に与える影響と、将来のガソリン価格に影響を与える可能性のある要因についても探ります。最後に、ハリケーンに対する脆弱性と、ガソリン供給と価格への潜在的影響について述べる。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/lIn1eKvlz6s/hqdefault.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;労働者の日の週末旅行とガソリン価格&quot;&gt;労働者の日の週末旅行とガソリン価格&lt;/h2&gt;
+
+&lt;p&gt;AAA北東部シニア・マネージャーのロバート・シンクレア・ジュニアによると、来るアメリカのレイバー・デイの週末は賑わうことが予想されるという。ガソリン価格は1ガロンあたり3.81ドルと昨年より安くなっているものの、多くのドライバーにとって大きな懸念材料であることに変わりはない。2018年3月に実施された調査では、ガソリン価格が1ガロンあたり3ドルになると、ドライバーの40％が運転や外食、大きな買い物を控えることが明らかになった。しかし、アメリカ人は移動距離が短くなるとはいえ、レイバーデーの休暇を利用すると予想されている。地元の調査によると、この連休の平均移動距離は50～200マイルで、例年より大幅に減少するという。&lt;/p&gt;
+
+&lt;h2 id=&quot;インフレの影響と将来のガソリン価格&quot;&gt;インフレの影響と将来のガソリン価格&lt;/h2&gt;
+
+&lt;p&gt;移動距離減少の理由のひとつは、インフレが家計に与える影響である。物価の上昇により、今年のガソリン需要は前年比0.9％減となった。今後、いくつかの要因がガソリン価格に影響を与える可能性がある。OPECプラス・グループは日量360万バレルの減産を実施し、価格上昇を引き起こしている。この減産は9月まで続くと予想されている。しかし、夏のドライブシーズンが終わり、子供たちが学校に戻り、9月15日にガソリンのブレンドが夏用から冬用に切り替わるため、需要が減少し、価格に影響を与える可能性がある。&lt;/p&gt;
+
+&lt;h2 id=&quot;ハリケーンに対する脆弱性&quot;&gt;ハリケーンに対する脆弱性&lt;/h2&gt;
+
+&lt;p&gt;需要減と冬用ブレンドへの切り替えが価格下落に寄与するとはいえ、ハリケーンに対する脆弱性は依然として存在する。掘削、精製、流通インフラの45％が集中するメキシコ湾岸を大型ハリケーンが直撃すれば、一夜にして価格が急騰する可能性がある。しかし、今シーズンのハリケーンによる経済的影響は最小限にとどまると予想されている。ガソリンの100％を海上輸送で受け入れているフロリダでは、ハリケーンの影響で多くの港が閉鎖されたにもかかわらず、その影響は比較的軽微だった。国内最大のパイプラインであるコロニアルパイプラインも停電の影響を受けやすく、ガソリン供給に支障をきたす可能性がある。結論として、レイバーデーの週末は賑わうことが予想されるが、ガソリン価格の高騰とハリケーンの潜在的影響は依然として懸念材料である。&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;&lt;em&gt;Reference&lt;/em&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;https://www.youtube.com/watch?v=lIn1eKvlz6s&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 01 Sep 2023 00:00:00 -0500</pubDate>
+        <link>https://trendywolf-ko.github.io//2023/09/01/1572-ja/</link>
+        <guid isPermaLink="true">https://trendywolf-ko.github.io//2023/09/01/1572-ja/</guid>
+        
+        <category>労働者の日の週末</category>
+        
+        <category>ガソリン価格</category>
+        
+        <category>インフレ</category>
+        
+        <category>ハリケーン</category>
+        
+        <category>移動距離</category>
         
         
       </item>
@@ -372,45 +413,6 @@
         <category>下落率</category>
         
         <category>市場展望</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>波乱予測にもかかわらず米国市場は横ばいで終了：勝者と敗者を紐解く</title>
-        <description>&lt;p&gt;こんにちは！本日は、ダウ平均が小幅続伸、ナスダック総合株価指数が小幅続落という、比較的横ばいの展開となった米国市場についてお話しします。また、いくつかの大手銀行を含む今週のトップ・パフォーマーと、ネットフリックスなどの下落株にも焦点を当てます。最後に、ディズニーとエアビーアンドビーが大きく上昇した一方、アメリカン・エキスプレスは苦戦した。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://thumbnail.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;米国市場は横ばいの一日&quot;&gt;米国市場は横ばいの一日&lt;/h2&gt;
-
-&lt;p&gt;ブルームバーグが報じた米国市場の一日の取引は、ほぼ横ばいで終わった。ダウ工業株30種平均は100分の1というわずかな上昇にとどまった。しかし、大手銀行で構成されるKBWは、週を通して取引全体で6.6％の大幅な伸びを記録した。個別銘柄や指数のオプション満期による出来高とボラティリティの増加が予想されたが、市場は予想されたような混乱には見舞われなかった。その代わり、出来高は通常よりやや多かったが、予想されたボラティリティはなかった。&lt;/p&gt;
-
-&lt;h2 id=&quot;マーケットにおけるトップパフォーマーとディクリナー&quot;&gt;マーケットにおけるトップ・パフォーマーとディクリナー&lt;/h2&gt;
-
-&lt;p&gt;S＆P500種株価指数は、かろうじてプラスで終わると予想されているが、ナスダック総合株価指数はコンマ2％の下落と厳しい週となった。しかし、ダウ平均は10日連続の上昇を記録し、グリーンで落ち着く可能性がある。ジオン・シュワブ、キーコープ、シチズンズ・ファイナンシャル、ノーザン・トラスト、バンク・オブ・アメリカ、モルガン・スタンレーなどの銀行セクターは、S&amp;amp;P500種株価指数のトップ・パフォーマーだった。一方、ネットフリックスを含む通信サービスは、工業、金融とともに下落した。&lt;/p&gt;
-
-&lt;h2 id=&quot;金曜日の取引における個人投資家の利益と損失&quot;&gt;金曜日の取引における個人投資家の利益と損失&lt;/h2&gt;
-
-&lt;p&gt;金曜の取引における個別銘柄の上昇率では、ディズニーが1％上昇し、この日の最高値となる2％の上昇を記録した。これは、ディズニーのESPNとNFLおよびNBAが、潜在的なパートナーシップと投資構造について予備的な協議を行ったためである。エアビーアンドビーは、モルガン・スタンレーが目標株価を引き上げたため、2.5％の上昇と目立った。サービス・ファースト・バンクの株価も預金残高の23％増に牽引され、20％の大幅上昇となった。しかし、通信サービス分野では下落が見られ、アメリカン・エキスプレスは第2四半期の収益成長が予想を下回ったため、ダウ工業株では最悪のパフォーマンスとなった。&lt;/p&gt;
-
-&lt;h3 id=&quot;reference&quot;&gt;&lt;em&gt;Reference&lt;/em&gt;&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;https://www.youtube.com/watch?v=R8VBRCs2jTU&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 31 Aug 2023 00:00:00 -0500</pubDate>
-        <link>https://trendywolf-ko.github.io//2023/08/31/2713-ja/</link>
-        <guid isPermaLink="true">https://trendywolf-ko.github.io//2023/08/31/2713-ja/</guid>
-        
-        <category>米国市場</category>
-        
-        <category>平日</category>
-        
-        <category>上位</category>
-        
-        <category>下落率</category>
         
         
       </item>
