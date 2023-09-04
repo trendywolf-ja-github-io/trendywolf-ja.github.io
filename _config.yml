@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: joonsun.baek@gmail.com
 description: "Committed to delivering U.S. economy news"
 keyword: "economy, fed, US, wallstreet, money, investment, trendy, wolf"
-url: "https://trendywolf-ko.github.io/" # your host, for absolute URL
+url: "https://trendywolf-ja.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: trendywolf-ko.github.io
+ga_domain: trendywolf-ja.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
