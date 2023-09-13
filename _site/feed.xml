@@ -5,8 +5,8 @@
     <description>Committed to delivering U.S. economy news</description>
     <link>https://trendywolf-ja.github.io//</link>
     <atom:link href="https://trendywolf-ja.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Sep 2023 18:06:31 -0500</pubDate>
-    <lastBuildDate>Tue, 12 Sep 2023 18:06:31 -0500</lastBuildDate>
+    <pubDate>Tue, 12 Sep 2023 21:06:29 -0500</pubDate>
+    <lastBuildDate>Tue, 12 Sep 2023 21:06:29 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -81,6 +81,44 @@
         <category>日本国債</category>
         
         <category>リスクリワードトレード</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>インテュイットのAIアシスタント、財務管理をパーソナライズして支援</title>
+        <description>&lt;p&gt;こんにちは。TrendyWolfです。今回は、Intuitの新しいAI搭載アシスタント「Intuit Assist」と、Intuitの様々なプラットフォームでユーザーにパーソナライズされた支援を提供する役割についてご紹介します。また、AIがIntuitのビジネス戦略をどのように形成しているか、消費者の財務管理を支援することに注力しているか、Intuitが対応している市場動向についても説明します。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/TYkvAmb-dUU/hqdefault.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;intuitの新しいaiアシスタントintuit-assist&quot;&gt;Intuitの新しいAIアシスタント：Intuit Assist&lt;/h2&gt;
+&lt;p&gt;Intuitのササン・ガダージCEOはこのほど、Turbo Tax、Credit Karma、MailChimpなど、Intuitのさまざまなプラットフォームで、ユーザーにパーソナライズされた支援を提供するよう設計されたAI搭載のインテリジェント・アシスタント「Intuit Assist」を発表した。この革新的なツールは、中小企業のマーケティング・キャンペーン開発を支援することを目的としており、コンテンツや画像の作成、ターゲットオーディエンスの特定をサポートする。Intuit Assistはまた、キャンペーン結果とキャッシュフローに関する貴重な洞察を提供し、仮想マーケティングチームとして効果的に機能する。&lt;/p&gt;
+
+&lt;h2 id=&quot;インテュイットのビジネス戦略におけるaiの役割&quot;&gt;インテュイットのビジネス戦略におけるAIの役割&lt;/h2&gt;
+&lt;p&gt;AIは、消費者の財務管理、節約、やりくりの支援に重点を置き、インテュイットの全事業で重要な役割を果たすことになる。中小企業向けには、顧客拡大、収益創出、キャッシュフロー管理を支援することを目指している。Credit KarmaやTurbo Taxのようなプラットフォームは、ユーザーが予期せぬ出費に対応できるように設計されており、給与への早期アクセスや最低金利での事前承認済み個人ローンなどのソリューションを提供している。Intuit Assistはバーチャルアシスタントとして、消費者や中小企業を経済的繁栄へと導く。&lt;/p&gt;
+
+&lt;h2 id=&quot;市場動向とインテュイットの対応&quot;&gt;市場動向とインテュイットの対応&lt;/h2&gt;
+&lt;p&gt;現在の市場動向を踏まえ、ガダージ氏は金利上昇をめぐる懸念と、それが消費者や家計に与える潜在的な影響を認めた。しかし、Credit Karmaやその他のプラットフォームから得たIntuitのデータは、こうした傾向に関する貴重な洞察を与えてくれる。例えば、中小企業の手元資金は昨年の約90%であり、パンデミック前の水準から大幅に改善している。消費者側では、クレジット・スコアは2020年3月以降13ポイント低下し、クレジットカード残高は30％以上増加している。こうした課題にもかかわらず、消費者は支出習慣についてより意図的になっており、金融行動の変化を示している。&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;&lt;em&gt;Reference&lt;/em&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;https://www.youtube.com/watch?v=TYkvAmb-dUU&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 13 Sep 2023 00:00:00 -0500</pubDate>
+        <link>https://trendywolf-ja.github.io//2023/09/13/1459-ja/</link>
+        <guid isPermaLink="true">https://trendywolf-ja.github.io//2023/09/13/1459-ja/</guid>
+        
+        <category>AIPoweredAssistant</category>
+        
+        <category>Intuit</category>
+        
+        <category>中小企業</category>
+        
+        <category>マーケティングキャンペーン</category>
+        
+        <category>財務管理</category>
         
         
       </item>
@@ -347,44 +385,6 @@
         <category>新興市場</category>
         
         <category>サプライチェーン</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>混迷する市場終値、アップルとクローガーの業績、インフレへの懸念</title>
-        <description>&lt;p&gt;こんにちは。TrendyWolfです。今回は、S&amp;amp;P500が小幅高、NASDAQコンポジットは下落という、まちまちの市場終値について解説します。また、アップル、クローガー、RHなど特定銘柄のパフォーマンスや、債券市場、インフレに対する懸念とFRBのインフレ対策への影響についても取り上げます。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/8Ft6Xt9SGf4/hqdefault.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;マーケットクローズの概要&quot;&gt;マーケット・クローズの概要&lt;/h2&gt;
-&lt;p&gt;市場終値はまちまちで、S&amp;amp;P500種指数は小幅高で終わったが、ナスダック総合指数は週間で1.9％下落した。一方、ダウ平均は約0.2％上昇した。業種別では、原油価格の上昇とロシアとサウジアラビアの減産が主因となり、エネルギー株が1％上昇し、週のトップ・パフォーマーとなった。逆に、テレコム・サービス、自動車・部品、チップ・メーカーはすべて少なくとも0.75%下落して引けた。&lt;/p&gt;
-
-&lt;h2 id=&quot;株式ハイライト&quot;&gt;株式ハイライト&lt;/h2&gt;
-&lt;p&gt;サンクチュアリー・ウェルスのチーフ・インベストメント・ストラテジスト、マリアンヌ・バーテルズ氏は、同社の長期的な見通しに自信を示した。クローガー株も、アルバートソンズとの合併に向けた独占禁止法上の承認を得るため、CNSホールセール・グローサーズに400店舗以上を売却することで合意し、3％上昇した。CSX株は、カナディアン・ナショナル鉄道の元幹部マイク・コーリーを初のCOOに任命したことで1.6％上昇した。しかし、すべての銘柄が好調だったわけではなく、RH（旧レストレーション・ハードウェア）は2020年3月以来最悪の1日となり、株価は約16％下落した。ハドソン・パシフィック・プロパティーズも、脚本家と俳優のストライキの中で四半期配当を停止し、3％近く下落した。&lt;/p&gt;
-
-&lt;h2 id=&quot;債券市場とインフレ懸念&quot;&gt;債券市場とインフレ懸念&lt;/h2&gt;
-&lt;p&gt;債券市場では、2年物利回りがわずかに上昇したが、10年物利回りと20年物利回りは横ばいだった。30年物利回りは約1ベーシスポイント低下した。消費者物価指数（CPI）とFRB理事会を控えるなか、FRBが更新した予測やジェローム・パウエル議長の経済に関するコメント、そして “長期的な上昇 “というコンセプトへの期待と憶測が高まっている。今週の原油価格の上昇も、インフレとFRBのインフレ対策への影響に対する懸念を高めている。FRBはインフレ率を計算する際、食品とエネルギー価格を除外しているが、原油とガス価格の上昇はインフレ期待に影響を与える可能性がある。&lt;/p&gt;
-
-&lt;h3 id=&quot;reference&quot;&gt;&lt;em&gt;Reference&lt;/em&gt;&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;https://www.youtube.com/watch?v=8Ft6Xt9SGf4&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 11 Sep 2023 00:00:00 -0500</pubDate>
-        <link>https://trendywolf-ja.github.io//2023/09/11/5329-ja/</link>
-        <guid isPermaLink="true">https://trendywolf-ja.github.io//2023/09/11/5329-ja/</guid>
-        
-        <category>マーケットクローズ</category>
-        
-        <category>S&amp;P500</category>
-        
-        <category>NASDAQコンポジット</category>
-        
-        <category>エネルギー株</category>
-        
-        <category>インフレ率</category>
         
         
       </item>
